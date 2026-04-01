@@ -67,12 +67,6 @@ jordy = {
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samael2209&show_icons=true&theme=dark&title_color=F97316&icon_color=F97316&border_color=1e3a5f&bg_color=0d1117&hide_border=false&rank_icon=github" height="180"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samael2209&layout=compact&theme=dark&title_color=F97316&border_color=1e3a5f&bg_color=0d1117&langs_count=6" height="180"/>
-</div>
-
 <br/>
 
 <div align="center">
