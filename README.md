@@ -1,93 +1,87 @@
 <div align="center">
-  <img height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjhzaGkydmJleGN5bWx1OGp1ZnBuN3I4OXBxbnFweXgzcmZyY243MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nWZzCtRhyzOnu9zEqf/giphy.gif" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,9,5&height=200&section=header&text=Luzu%20Dev&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=ML%20Engineer%20%7C%20Data%20Scientist&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
+</div>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F97316&center=true&vCenter=true&width=600&lines=Building+intelligent+systems+%F0%9F%A4%96;Turning+data+into+decisions+%F0%9F%93%8A;ML+%7C+Deep+Learning+%7C+Data+Science;Python+%7C+PyTorch+%7C+FastAPI" alt="Typing SVG" />
+  </a>
 </div>
 
 <br/>
 
 <div align="center">
   <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="YOUR_YOUTUBE_URL">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" height="25" alt="youtube" />
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
   <a href="YOUR_TWITTER_URL">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&style=for-the-badge" height="25" alt="twitter" />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=samael2209&style=for-the-badge&color=F97316&label=PROFILE+VIEWS" />
 </div>
 
-<br/>
+---
+
+## 🧠 About Me
+```python
+jordy = {
+    "location": "Ecuador 🇪🇨",
+    "focus":    ["Machine Learning", "Deep Learning", "Data Science"],
+    "stack":    ["Python", "PyTorch", "FastAPI", "PostgreSQL", "Docker"],
+    "learning": "MLOps & model serving at scale",
+    "motto":    "Data is only as valuable as the decisions it drives.",
+}
+```
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=samael2209.samael2209" />
-</div>
-
----
-
-<h1 align="center">Hi, I'm Jordy 👋</h1>
-
-<p align="center">
-  ML Engineer & Data Scientist based in Ecuador 🇪🇨 <br/>
-  I build intelligent systems that turn raw data into meaningful decisions. <br/>
-  Passionate about deep learning, model deployment, and clean backend architecture.
-</p>
-
----
-
-<h3 align="left">👨‍💻 About Me</h3>
-
-- 🤖 Focused on **machine learning**, **deep learning**, and **data science**
-- 🐍 Primary stack: **Python** · **PyTorch** · **FastAPI** · **PostgreSQL**
-- 🐳 I care about reproducibility — Docker and clean architecture are non-negotiable
-- 🌱 Currently deepening my knowledge in **MLOps** and **model serving at scale**
-- 📫 Reach me via [LinkedIn](YOUR_LINKEDIN_URL)
-
----
-
-<h3 align="left">🛠️ Tech Stack</h3>
-
-<br/>
 
 **Languages**
 
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="Go" title="Go" />
-</div>
-
-<br/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 **ML / Data**
 
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch" title="PyTorch" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy" title="NumPy" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas" title="Pandas" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40" alt="scikit-learn" title="scikit-learn" />
-</div>
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-<br/>
+**Backend & Infra**
 
-**Backend & Infrastructure**
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="FastAPI" title="FastAPI" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" title="PostgreSQL" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" title="Docker" />
 </div>
 
 ---
 
-<h3 align="left">📊 GitHub Stats</h3>
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=samael2209&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="200" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=samael2209&show_icons=true&theme=dark&title_color=F97316&icon_color=F97316&border_color=1e3a5f&bg_color=0d1117&hide_border=false&rank_icon=github" height="180"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samael2209&layout=compact&theme=dark&title_color=F97316&border_color=1e3a5f&bg_color=0d1117&langs_count=6" height="180"/>
 </div>
 
 <br/>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=samael2209&theme=dark&ring=F97316&fire=F97316&currStreakLabel=F97316&sideLabels=3B82F6&border=1e3a5f&background=0d1117" height="180"/>
+</div>
+
+---
+
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,9,5&height=100&section=footer" width="100%"/>
+</div>
